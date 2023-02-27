@@ -1,0 +1,15 @@
+[  {
+	"type": "input",
+	"name": "name",
+	"message": "package name:"
+},{
+	"type": "input",
+	"name": "version",
+	"message": "version:",
+	"default":"0.0.1"
+},{
+	"type": "confirm",
+	"name": "private",
+	"message": "ths resgistery is private?",
+	"default":true
+}]
